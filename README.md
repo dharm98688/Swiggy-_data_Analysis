@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project is based on Swiggy food delivery data and focuses on analyzing sales performance, customer behavior, and regional trends.
+This project is based on Swiggy food delivery data, focusing on analyzing sales performance, customer behavior, and regional trends.
 The dashboard is designed as per real-world business requirements to help stakeholders make data-driven decisions.
 
 # Business Objective
@@ -17,50 +17,46 @@ The dashboard is designed as per real-world business requirements to help stakeh
 
     Analyze sales trends over time (daily, weekly, monthly, quarterly)
 
-🧩 Business Requirements
-🔑 Key Performance Indicators (KPIs)
+# Business Requirements
+- # Key Performance Indicators (KPIs)
 
-Total Sales – Total revenue generated from orders
+    Total Sales – Total revenue generated from orders
 
-Total Orders – Number of orders placed
+    Total Orders – Number of orders placed
 
-Average Order Value (AOV) – Revenue per order
+    Average Order Value (AOV) – Revenue per order
 
-Average Ratings – Overall customer satisfaction
+    Average Ratings – Overall customer satisfaction
 
-Ratings Count – Total number of ratings received
+    Ratings Count – Total number of ratings received
 
-📊 Charts & Visual Analysis
+# Charts & Visual Analysis
 
-To meet business needs, the following charts were created:
+    To meet business needs, the following charts were created:
 
-Monthly Sales Trends – Identify growth and seasonal patterns
+    Monthly Sales Trends – Identify growth and seasonal patterns
 
-Daily Sales Trend – Analyze day-wise order behavior
+    Daily Sales Trend – Analyze day-wise order behavior
 
-Weekly Sales Trend – Understand weekly demand cycles
+    Weekly Sales Trend – Understand weekly demand cycles
 
-Quarterly Performance Summary – Compare sales across quarters
+    Quarterly Performance Summary – Compare sales across quarters
 
-Total Sales by Food Type – Find best-performing food categories
+    Total Sales by Food Type – Find best-performing food categories
 
-Total Sales by State – Regional sales contribution
+    Total Sales by State – Regional sales contribution
 
-Top 5 Cities by Sales – High revenue generating cities
+    Top 5 Cities by Sales – High revenue-generating cities
 
-🛠️ Tools & Technologies Used
+# Tools & Technologies Used
 
-SQL – Data extraction & KPI calculation
-
-Power BI / Excel – Dashboard & visualizations
-
-CSV Dataset – Swiggy sales data
+    CSV Dataset – Swiggy sales data
 
 🚀 Key Insights
 
-Identified top food categories contributing maximum revenue
+Identified the top food categories contributing the maximum revenue
 
-Found cities and states with highest order volume
+Found cities and states with the highest order volume
 
 Observed customer ordering patterns using time-based trends
 
