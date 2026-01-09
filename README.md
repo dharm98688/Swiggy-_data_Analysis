@@ -52,7 +52,7 @@ The dashboard is designed as per real-world business requirements to help stakeh
 
     CSV Dataset – Swiggy sales data
 
-🚀 Key Insights
+# Key Insights
 
 Identified the top food categories contributing the maximum revenue
 
