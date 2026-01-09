@@ -54,10 +54,10 @@ The dashboard is designed as per real-world business requirements to help stakeh
 
 # Key Insights
 
-Identified the top food categories contributing the maximum revenue
+    Identified the top food categories contributing the maximum revenue
 
-Found cities and states with the highest order volume
+    Found cities and states with the highest order volume
 
-Observed customer ordering patterns using time-based trends
+    Observed customer ordering patterns using time-based trends
 
-Used ratings to understand customer satisfaction
+    Used ratings to understand customer satisfaction
