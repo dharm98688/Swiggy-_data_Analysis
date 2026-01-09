@@ -1,6 +1,6 @@
 # Swiggy-_data_Analysis
 
-📌 Project Overview
+# Project Overview
 
 This project is based on Swiggy food delivery data and focuses on analyzing sales performance, customer behavior, and regional trends.
 The dashboard is designed as per real-world business requirements to help stakeholders make data-driven decisions.
