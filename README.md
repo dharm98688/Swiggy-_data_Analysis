@@ -5,17 +5,17 @@
 This project is based on Swiggy food delivery data and focuses on analyzing sales performance, customer behavior, and regional trends.
 The dashboard is designed as per real-world business requirements to help stakeholders make data-driven decisions.
 
-🎯 Business Objective
+# Business Objective
 
-Swiggy management wants to:
+    Swiggy management wants to:
 
-Track overall sales and order performance
+    Track overall sales and order performance
 
-Understand customer satisfaction using ratings
+    Understand customer satisfaction using ratings
 
-Identify top-performing food categories and cities
+    Identify top-performing food categories and cities
 
-Analyze sales trends over time (daily, weekly, monthly, quarterly)
+    Analyze sales trends over time (daily, weekly, monthly, quarterly)
 
 🧩 Business Requirements
 🔑 Key Performance Indicators (KPIs)
